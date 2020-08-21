@@ -1,0 +1,45 @@
+
+
+.content{
+  display: block;
+  background: black;
+  margin:auto;
+  width: 30%;
+  height:30%;
+  text-align: center;
+  margin-top:0px;
+}
+button{
+  text-align: center;
+  width:4em;
+  height: 4em;
+  border-radius:100%;
+  border:none;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  margin-left:2em;
+  font-size:1em;
+  font-weight: bold;
+  
+}
+
+
+.ans{
+  margin: auto;
+  background : black;
+  width: 30%;  
+}
+.operator{
+  background: orange;
+  background-blend-mode: overlay;
+}
+p{
+  align-content:right;
+   background : black;
+  width: 30%;
+  color:white;
+  font-size : 4em;
+  margin-bottom:0px;
+  
+  }
+
